@@ -1,3 +1,6 @@
-# sprint-2
+# Предсказание стоимости поездки в сервисе такси
 
-ML Pipeline project for taxi fare prediction
+## Для запуска введите
+
+Run main.py
+
